@@ -1,0 +1,20 @@
+#container{
+    
+display:flex;
+    max-width: 330px;
+    max-height: 330px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    
+
+}
+.number{
+    height: 100px;
+    width: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1px solid black;
+}
